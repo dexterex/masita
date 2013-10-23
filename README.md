@@ -1,4 +1,4 @@
 masita
 ======
 
-Resolución al problema del tablero propueto por waragon y mercadolibre
+Resolución al problema del tablero propuesto por Waragon y Mercadolibre
